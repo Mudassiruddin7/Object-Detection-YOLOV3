@@ -100,7 +100,7 @@ Now you are ready to use jupyter on this environment and start with your project
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
 7.      Download The Yolov3.weights from the given below link:
-+ https://drive.google.com/drive/folders/1KDJzV2voyq3VPWD6N5unUAw5emLz0JYq?usp=sharing
++ https://drive.google.com/file/d/10GQ8xzg0OL6TrnyRZodPCyqkaOI22CgA/view?usp=sharing
 7.	All the necessary files will get downloaded. To run the code, open anaconda prompt. Go to virtual environment if created or operate from the base itself and run either yolo.py or yolo2.py or yolo_webcam.py as per your requirement.
 8.      yolo.py: To run this type python yolo.py --image images/eagle.jpg(change image as you wish, the image you want to perform detection upon should be in images sub-folder)
 
